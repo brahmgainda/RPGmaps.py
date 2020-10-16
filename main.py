@@ -27,7 +27,6 @@ class Map:
                 f"{self.relevance}")
         return desc
 
-
 # Defining the different rooms
 interrogation_room = Map("Interrogation Room", "you interrogate suspects to\
 see if their guilty")
